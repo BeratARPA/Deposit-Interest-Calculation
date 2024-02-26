@@ -18,20 +18,20 @@ Bu, C# ile basit bir faiz hesaplama aracıdır.
 
 ## Örnek Çalıştırma
 
-Anapara: 20000
-Faiz Oranı: 25
-Stopaj Oranı: 15
-Eklenecek Miktar: 1500
-Vade (AY): 6
+- Anapara: 20000
+- Faiz Oranı: 25
+- Stopaj Oranı: 15
+- Eklenecek Miktar: 1500
+- Vade (AY): 6
 
-Net Para: 20.354,17       1.Ay Faiz: 354,17          Brüt Faiz: 416,67          Stopaj: 62,50
-Net Para: 22.241,17       2.Ay Faiz: 387,00          Brüt Faiz: 455,30          Stopaj: 68,29
-Net Para: 24.161,58       3.Ay Faiz: 420,42          Brüt Faiz: 494,61          Stopaj: 74,19
-Net Para: 26.116,01       4.Ay Faiz: 454,42          Brüt Faiz: 534,62          Stopaj: 80,19
-Net Para: 28.105,04       5.Ay Faiz: 489,03          Brüt Faiz: 575,33          Stopaj: 86,30
-Net Para: 30.129,30       6.Ay Faiz: 524,26          Brüt Faiz: 616,77          Stopaj: 92,52
+- Net Para: 20.354,17       1.Ay Faiz: 354,17          Brüt Faiz: 416,67          Stopaj: 62,50
+- Net Para: 22.241,17       2.Ay Faiz: 387,00          Brüt Faiz: 455,30          Stopaj: 68,29
+- Net Para: 24.161,58       3.Ay Faiz: 420,42          Brüt Faiz: 494,61          Stopaj: 74,19
+- Net Para: 26.116,01       4.Ay Faiz: 454,42          Brüt Faiz: 534,62          Stopaj: 80,19
+- Net Para: 28.105,04       5.Ay Faiz: 489,03          Brüt Faiz: 575,33          Stopaj: 86,30
+- Net Para: 30.129,30       6.Ay Faiz: 524,26          Brüt Faiz: 616,77          Stopaj: 92,52
 
-Toplam: 30.129,30
+- Toplam: 30.129,30
 
 ## Katkıda Bulunma
 
